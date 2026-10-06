@@ -1,3 +1,9 @@
+/**
+ * Contient les méthodes qui permettent de faire des
+ * calculs sur des nombres entiers comme l'addition, 
+ * la multiplication et le calcul d'une moyenne.
+ * 
+ */
 public class MathUtils { 
     // additionne deux nombres 
     public static int add(int a, int b) { 
